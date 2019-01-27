@@ -1,17 +1,17 @@
 # Site settings
-title: Editorial
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+title: Frejas Konfirmation
+subtitle: Fredag d. 17. Maj 2019
+email: freja.bruskin@gmail.com
+description: Siden om Frejas konfirmation, Fredag d. 17. Maj 2019 på Låsby kro 
 #baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
+author: Freja Bruskin
+street_address: Bredsig 17
+city: Sorring
 state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+zip_code: 8641
+country: Danmark
+phone: 50 90 15 76
 
 # Social settings
 500px_url:
