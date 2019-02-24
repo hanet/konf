@@ -2,4 +2,4 @@
 layout: page
 title: Overnatning
 ---
-Der kan bestilles overnating på Låsbykro.
+Der kan bestilles overnatning på Låsbykro.
