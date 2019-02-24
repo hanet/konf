@@ -18,7 +18,7 @@
             <li><a href="{{ '' | absolute_url }}">Startside</a></li>
             <li><a href="{{ 'oenskelist.html' | absolute_url }}">Ønskeliste</a></li>
             <li><a href="{{ 'overnatning.html' | absolute_url }}">Overnatning</a></li>
-            <li><a href="{{ 'gaestebog.html' | absolute_url }}">Overnatning</a></li>
+            <li><a href="{{ 'gaestebog.html' | absolute_url }}">Gæstebog</a></li>
           </ul>
         </nav>
 
@@ -27,22 +27,7 @@
           <header class="major">
             <h2>Senste nyt</h2>
           </header>
-          <!--
-          <div class="mini-posts">
-            <article>
-              <a href="#" class="image"><img src="assets/images/pic07.jpg" alt="" /></a>
-              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-            </article>
-            <article>
-              <a href="#" class="image"><img src="assets/images/pic08.jpg" alt="" /></a>
-              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-            </article>
-            <article>
-              <a href="#" class="image"><img src="assets/images/pic09.jpg" alt="" /></a>
-              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-            </article>
-          </div>
-        -->
+
         <ul>
           {% for post in site.posts %}
             <li>
@@ -69,7 +54,7 @@
 
       <!-- Footer -->
         <footer id="footer">
-          <p class="copyright">&copy; {{ site.title }}. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
+          <p class="copyright">&copy; {{ site.title }}. All rights reserved.</p>
         </footer>
 
     </div>
